@@ -2,6 +2,8 @@
 
 This repository contains a JavaScript implementation of a self-driving car using neural network concepts. The project aims to simulate an autonomous vehicle capable of navigating a predefined track using neural networks for perception and decision-making.
 
+
+
 ## Features
 
 - Neural network-based perception system to interpret sensor inputs
@@ -45,9 +47,8 @@ This repository contains a JavaScript implementation of a self-driving car using
          
          This project is licensed under the MIT License.
 
-         [Screenshot 2023-07-11 214004](https://github.com/Prureddy/Self_driving_car_javascript/assets/99805816/fff77ea9-02ee-4b02-ad78-2f4a50572a67)
+![Screenshot 2023-07-11 214032](https://github.com/Prureddy/Self_driving_car_javascript/assets/99805816/af03294a-3583-4ebf-941d-8f2f7c74b297)
+![Screenshot 2023-07-11 214004](https://github.com/Prureddy/Self_driving_car_javascript/assets/99805816/92b08c00-7bdb-4d11-a450-ed1073260961)
 
 
-
-         ![image](https://github.com/Prureddy/Self_driving_car_javascript/assets/99805816/78000206-f86e-4b69-b46b-025068865dc0)
 
