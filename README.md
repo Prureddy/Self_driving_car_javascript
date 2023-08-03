@@ -23,7 +23,7 @@ This repository contains a JavaScript implementation of a self-driving car using
 
 1. Clone the repository:
 
-   ``` shell
+   shell
    git clone https://github.com/Prureddy/Self_driving_car_javascript.git
    cd Self_driving_car_javascript
    npm install
